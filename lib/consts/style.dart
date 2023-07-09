@@ -1,0 +1,1 @@
+const regular = "Trispace-Regular";
